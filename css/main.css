@@ -261,13 +261,13 @@ top: -8px;
 }
 
 .devider i {
-  color: #cccccc;
+  color: #3c3c;
 }
 
 .devider:before,
 .devider:after {
   content: "______________________";
-  color: #e6e8ea;
+  color: #3c3c;
   position: relative;
   bottom: 6px;
 }
