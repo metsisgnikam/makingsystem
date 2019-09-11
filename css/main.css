@@ -85,7 +85,7 @@ body > section,
 }
 
 #preloader > img {
-  width:  100 &#37;
+  width: 12em;
   height: auto;
   left: 47%;
   position: absolute;
