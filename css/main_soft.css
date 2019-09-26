@@ -69,6 +69,16 @@ body > section,
 
 .sec-title {}
 
+.sectitleac{
+  text-align: center;
+  margin-top: 2em;
+  color: #0b0c0c;
+}
+.texdesc{
+  text-align: center;
+  margin-top: 1em;
+}
+
 .sec-title h2 {
   color: #3f3cfd;
   font-size: 28px;

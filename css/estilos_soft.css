@@ -55,7 +55,7 @@ section{
     background: rgba(255,255,255,0.8);
     width: 90%;
 }
-section .contenedor{
+.section .contenedor{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
