@@ -116,6 +116,9 @@ body > section,
   padding: 0;
 }
 
+.logoot {
+  margin-top: -0.8em;
+}
 .navbar-nav li a {
 	border-top: 1px solid transparent;
 }
