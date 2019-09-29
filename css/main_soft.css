@@ -70,14 +70,16 @@ body > section,
 .sec-title {}
 
 .sectitleac{
+  float: none;
+  width: 100%;
   text-align: center;
   margin-top: 2em;
   color: #0b0c0c;
 }
 .texdesc{
-  text-align: justify;
-  margin-top: 1em;
-  font-size: 18px;
+  padding: 5em 3em;
+  text-align: center;
+  font-size: 15px;
   line-height: 1.5;
 }
 
