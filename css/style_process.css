@@ -99,11 +99,13 @@
 	padding: 5em 3em;
 	background: #003399;
 	color: #fff;
+	min-height: 400px;
 }
-#process-block .process-content h6 {
-	font-size: 42px;
-	color: #3c434d;
+#process-block .process-content h3 {
+	font-size: 30px;
+	color: #fff;
 	font-weight: 600;
+	text-align: center;
 }
 #process-block .process-content p {
 	color: #fff;
@@ -117,20 +119,21 @@
 .botonmasinf {
 	display: inline-block;
     padding: .5rem 1rem;
-    background-color: #1192ee;
+    background-color: #33cc33;
     color: #FFF;
     cursor: pointer;
     text-decoration: none;
     line-height: inherit;
     border-radius: .25rem;
     transition: transform .05s;
-    border: 1px solid #1192ee;
+    border: 1px solid #33cc33;
     text-align: center;
     user-select: none;
 	  }
 .botonmasinf:hover {
-		background: #0e7ecd;
+		background: #138f13;
 		color: #fff;
+		border: 1px solid #138f13;
 	  }
 .c-block .counter {
 	padding: 15px 42x 15px 42px;
