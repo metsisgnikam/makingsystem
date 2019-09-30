@@ -127,17 +127,19 @@ margin-bottom: 50px;
 }
 
 #preloader {
-background-color: #fff;
-height: 100%;
-position: fixed;
-width: 100%;
-z-index: 1100;
+  background-color: #fff;
+  height: 100%;
+  position: fixed;
+  width: 100%;
+  z-index: 1100;
 }
 
 #preloader > img {
-left: 47%;
-position: absolute;
-top: 48%;
+  width: 12%;
+  height: auto;
+  left: 47%;
+  position: absolute;
+  top: 48%;
 }
 
 .service-icon {
