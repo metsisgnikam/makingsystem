@@ -117,25 +117,6 @@
 	margin-bottom: 35px;
 }
 
-.botonmasinf {
-	display: inline-block;
-    padding: .5rem 1rem;
-    background-color: #33cc33;
-    color: #FFF;
-    cursor: pointer;
-    text-decoration: none;
-    line-height: inherit;
-    border-radius: .25rem;
-    transition: transform .05s;
-    border: 1px solid #33cc33;
-    text-align: center;
-    user-select: none;
-	  }
-.botonmasinf:hover {
-		background: #138f13;
-		color: #fff;
-		border: 1px solid #138f13;
-	  }
 .c-block .counter {
 	padding: 15px 42x 15px 42px;
 	margin: 0 auto;
