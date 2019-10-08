@@ -595,7 +595,12 @@ float: left;
 }
 
 /*aaaaaaaaaaaaaaaaaaaaa*/
-
+.section {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  padding: 100px 0;
+}
 
 
 
