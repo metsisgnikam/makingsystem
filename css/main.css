@@ -19,6 +19,7 @@ ol, ul {
 
 figure, p {
     margin: 0;
+    
 }
 
 a {
@@ -318,6 +319,7 @@ top: -8px;
   height: 30px;
   position: relative;
 }
+
 .service-desc {
   margin-left: 70px;
   position: relative;
@@ -329,32 +331,16 @@ top: -8px;
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 25px;
-  text-align: center;
 }
-.service-icon0 {
-  border: 1px solid #3641dd;
-  border-radius: 50%;
-  color: #3641dd;
-  float: left;
-  padding: 10px 15px;
+.service-desc p {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 350;
+  margin-bottom: 25px;
+  text-align: justify;
+
 }
-.service-icon0 > img{
-  width: 20px;
-  height: 30px;
-  position: relative;
-}
-.service-icon1 {
-  border: 1px solid #3641dd;
-  border-radius: 50%;
-  color: #3641dd;
-  float: left;
-  padding: 10px 15px;
-}
-.service-icon1 > img{
-  width: 20px;
-  height: 30px;
-  position: relative;
-}
+
 /*=========================================
 	CSS TERMINA ICONOS DE NUESTROS SERVICIOS
 ==========================================------------------------------------------------------------------------------------------------*/
