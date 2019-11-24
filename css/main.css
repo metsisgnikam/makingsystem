@@ -19,6 +19,7 @@ ol, ul {
 
 figure, p {
     margin: 0;
+    
 }
 
 a {
@@ -324,7 +325,20 @@ top: -8px;
   top: 5px;
 }
 
-
+.service-desc h3 {
+  color: #062033;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 25px;
+}
+.service-desc p {
+  color: #000000;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 25px;
+  text-align: justify;
+  
+}
 .service-icon0 {
   border: 1px solid #3641dd;
   border-radius: 50%;
