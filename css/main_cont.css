@@ -237,6 +237,7 @@ margin-top: -300px;
 #slider .carousel-inner .item {
 background-size: cover;
 background-position: center;
+  background-attachment: fixed;
 }
 
 .carousel-caption {
