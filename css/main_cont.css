@@ -128,7 +128,7 @@ margin-bottom: 50px;
 
 #preloader {
   background-color: #fff;
-  height: auto;
+  height: 160px;
   position: fixed;
   width: 100%;
   z-index: 1100;
