@@ -600,3 +600,9 @@ z-index: 9;
   font-size: 18px;
   border-radius: 7px 7px;
 }
+.icon_whatsapp{
+    max-width:80px;
+    position: relative;
+    margin: center;
+    align-content: center;
+}
