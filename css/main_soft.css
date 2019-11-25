@@ -190,7 +190,7 @@ body > section,
 ==========================================*/
 
 #slider {
-	padding: 0;
+	margin-top: -250px;
 }
 
 #slider .carousel-inner .item {
