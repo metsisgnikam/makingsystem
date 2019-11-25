@@ -128,7 +128,7 @@ margin-bottom: 50px;
   height: auto;
   left: 47%;
   position: absolute;
-  top: 68%;
+  top: 63%;
 }
 
 
@@ -172,7 +172,7 @@ Slider
 ==========================================*/
 
 #slider {
-margin-top: -200px;
+margin-top: -170px;
 }
 
 #slider .carousel-inner .item {
