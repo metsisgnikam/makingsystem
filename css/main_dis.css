@@ -139,7 +139,7 @@ margin-bottom: 50px;
   height: auto;
   left: 47%;
   position: absolute;
-  top: 63%;
+  top: 57%;
 }
 
 
@@ -152,7 +152,6 @@ background-size: cover;
 background-position: center;
 background-attachment: fixed;
 }
-
 
 .service-icon {
   border: 1px solid #3641dd;
