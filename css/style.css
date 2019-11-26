@@ -1487,7 +1487,6 @@ xpush
 -------------------------------------------------------------------*/
 
 
-
 #features li p {
   margin-bottom: 0;
   padding-bottom: 0;
@@ -1501,7 +1500,6 @@ xpush
   cursor: pointer;
 -webkit-box-shadow: 0px 5px 35px 0px rgba(148, 146, 245, 0.15);
 box-shadow: 0px 5px 35px 0px rgba(148, 146, 245, 0.15);
-background: #003399;
 border-radius: 25px 0px 25px 0px;
 transition: all 1s ease-in-out;
 }
@@ -1515,6 +1513,7 @@ z-index: 1000;
 .features-left,
 .features-right {
   padding: 0 10px;
+  
 }
 
 .features-right li:last-child,
@@ -1539,8 +1538,6 @@ z-index: 1000;
   transition: .4s;
   padding: 0;
 }
-
-
 
 #features i img {
   display: table;
@@ -1586,7 +1583,7 @@ z-index: 1000;
 }
 
 .fr-inner {
-  margin-left: 90px;
+  margin-left: 30px;
 }
 
 .features-left i {
@@ -1595,13 +1592,16 @@ z-index: 1000;
 
 .fl-inner {
   text-align: right;
-  margin-right: 90px;
+  margin-right: 30px;
+  margin-top: 20px;
+  border-color: #003399;
 }
 
 #features h4 {
   text-transform: capitalize;
   margin: 0;
   font-size: 19px;
-color: #ffffff;
+  color: #003399;
+  font-weight: bold;
 }
 

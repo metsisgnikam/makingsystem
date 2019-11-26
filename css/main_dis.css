@@ -128,7 +128,7 @@ margin-bottom: 50px;
 
 #preloader {
   background-color: #fff;
-  height: 100%;
+  height: 130%;
   position: fixed;
   width: 100%;
   z-index: 1100;
@@ -139,7 +139,18 @@ margin-bottom: 50px;
   height: auto;
   left: 47%;
   position: absolute;
-  top: 48%;
+  top: 57%;
+}
+
+
+#slider {
+  margin-top: -159px;
+}
+
+#slider .carousel-inner .item {
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
 }
 
 .service-icon {
