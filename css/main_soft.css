@@ -74,8 +74,11 @@ body > section,
   width: 100%;
   font-family: 'Be Vietnam', sans-serif;
   text-align: center;
-  margin-top: 2em;
+  margin-top: 0em;
   color: #0b0c0c;
+}
+#boton {
+  margin-top: 3em;
 }
 .texdesc{
   padding: 5em 3em;
