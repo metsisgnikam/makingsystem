@@ -67,8 +67,6 @@ body > section,
 	padding: 10px 0;
 }
 
-.sec-title {}
-
 .sectitleac{
   float: none;
   width: 100%;
@@ -537,8 +535,7 @@ top: -8px;
   line-height: 24px;
 }
 
-.footer-single ul {
-  }
+
 
 .footer-single li {
   line-height: 32px;
