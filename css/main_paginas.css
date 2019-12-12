@@ -67,8 +67,6 @@ body > section,
 padding: 10px 0;
 }
 
-.sec-title {}
-
 .sec-title h2 {
 color: #3f3cfd;
 font-size: 28px;
@@ -521,8 +519,6 @@ top: 6px;
 line-height: 24px;
 }
 
-.footer-single ul {
-}
 
 .footer-single li {
 line-height: 32px;
