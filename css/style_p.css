@@ -8,50 +8,6 @@
 /*Fonts*/
  
  
- /*Scroll bar changes*/
-/* 
-::-webkit-scrollbar-track {
- -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
- background-color: #F5F5F5;
-}
-
-::-webkit-scrollbar {
- width: 6px;
- background-color: #F5F5F5;
-}
-
-::-webkit-scrollbar-thumb {
- background-color: #ccc;
-}
-
-::-webkit-scrollbar-track-piece:start {
-/* Select the top half (or left half) or scrollbar track individually */
-/*
-}
-
-::-webkit-scrollbar-thumb:window-inactive {
-/* Select the thumb when the browser window isn't in focus */
-  /*
-}
-
-::-webkit-scrollbar-button:horizontal:decrement:hover {
-/* Select the down or left scroll button when it's being hovered by the mouse */
-/*
-}
-/*Scroll bar changes*/
-
-/*
-body, html {
-	font-family: 'Roboto', sans-serif;
-	text-rendering: optimizeLegibility !important;
-	-webkit-text-rendering: optimizeLegibility !important;
-	font-smoothing: antialiased !important;
-	-webkit-font-smoothing: antialiased !important;
-	/*color: #5a5a5a;
-	color: #000;
-	height: 100%;
-}
-*/
 .fright {
 	float: right;
 }
